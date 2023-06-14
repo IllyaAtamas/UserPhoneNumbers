@@ -3,6 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
 .iws
 .iml
 .ipr
